@@ -7,5 +7,4 @@ void main()
   printf("Pulled to Sub_1");
   printf("ya ya,pull successfull !");
   return;
-
 }
