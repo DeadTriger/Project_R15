@@ -1,7 +1,11 @@
 #include<stdio.h>
+
 void main()
 {
-printf("Hello world");
+
+  printf("Hello world");
   printf("Pulled to Sub_1");
-return;
+  printf("ya ya,pull successfull !");
+  return;
+
 }
